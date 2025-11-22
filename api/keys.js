@@ -1,7 +1,7 @@
 // File: /api/keys.js
 
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
-const GITHUB_OWNER = 'TEJAS-AI-Official';
+const GITHUB_OWNER = 'wphack2025';
 const GITHUB_REPO = 'Wphackserver';
 const FILE_PATH = 'keys.json';
 
